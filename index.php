@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
   <meta name="description" content="bootstrap material admin template">
   <meta name="author" content="">
-  <title>SIPEC</title>
+  <title>SEDIPRO | INTRANET</title>
   <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
   <link rel="shortcut icon" href="assets/images/favicon.ico">
 
@@ -38,7 +38,7 @@
         <div class="panel-body">
           <div class="brand">
             <img class="brand-img" src="assets/images/logo-blue.png" alt="sipec-sedipro-unt">
-            <h2 class="brand-text font-size-18">SIPEC</h2>
+            <h2 class="brand-text font-size-18">SEDIPRO UNT</h2>
           </div>
           <form id="form_login" autocomplete="off">
             <div class="form-group form-material floating">
@@ -55,7 +55,7 @@
                 <label for="inputCheckbox">Recordarme</label>
               </div>              
             </div>
-            <button type="button" class="btn btn-primary btn-block btn-lg margin-top-40">Ingresar</button>
+            <button type="button" class="btn btn-success btn-block btn-lg margin-top-40">Ingresar</button>
           </form>        
         </div>
       </div>
